@@ -53,7 +53,7 @@ Outliers are detected as values that are more than a specified number of standar
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/statistical_engine.git
+git clone https://github.com/sali-12-m/statistical_engine.git
 ```
 
 2. Navigate into the project directory:
