@@ -90,3 +90,21 @@ In this project:
 * Larger simulations (e.g., 10,000 days) converge closer to the true probability (0.045)
 
 ---
+##  Acceptance Criteria Checklist
+
+- [x] Handles empty dataset (raises appropriate error)
+- [x] Validates and rejects non-numeric data types
+- [x] Correctly calculates mean
+- [x] Correctly calculates median (even and odd cases)
+- [x] Supports multimodal distributions in mode calculation
+- [x] Returns clear message when no mode exists
+- [x] Implements both population and sample variance correctly
+- [x] Applies Bessel’s correction for sample variance (n - 1)
+- [x] Calculates standard deviation accurately
+- [x] Detects outliers using standard deviation threshold
+- [x] Monte Carlo simulation implemented correctly
+- [x] Demonstrates Law of Large Numbers through simulation
+- [x] Code is organized into proper folder structure (src, tests, data)
+- [x] Unit tests implemented using unittest
+- [x] Project runs successfully from main.py
+---
